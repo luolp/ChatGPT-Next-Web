@@ -1,0 +1,1 @@
+nohup yarn start >/opt/nai.chat/log/nai-run.log 2>&1 &
