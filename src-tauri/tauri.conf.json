@@ -51,7 +51,7 @@
         "icons/icon.ico"
       ],
       "identifier": "com.yida.chatgpt.next.web",
-      "longDescription": "ChatGPT Next Web is a cross-platform ChatGPT client, including Web/Win/Linux/OSX/PWA.",
+      "longDescription": "Nai.Chat is a cross-platform ChatGPT client, including Web/Win/Linux/OSX/PWA.",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -60,7 +60,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "ChatGPT Next Web App",
+      "shortDescription": "Nai.Chat App",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
@@ -74,7 +74,7 @@
     "updater": {
       "active": true,
       "endpoints": [
-        "https://github.com/Yidadaa/ChatGPT-Next-Web/releases/download/{{current_version}}/latest.json"
+        "https://github.com/luolp/ChatGPT-Next-Web/releases/download/{{current_version}}/latest.json"
       ],
       "dialog": false,
       "windows": {
@@ -87,7 +87,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "ChatGPT Next Web",
+        "title": "奈 Nai.Chat",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"
